@@ -1,4 +1,4 @@
-# **Lending-Loan-Kaggle**
+# **Lending Loan Kaggle**
 This data set represents thousands of loans made through the Lending Club platform, which is a platform that allows individuals to lend to other individuals. This data set only represents loans actually made, i.e. do not mistake this data for loan applications! We will be using a subset of the LendingClub DataSet obtained from Kaggle
 
 Data Source: https://www.kaggle.com/wordsforthewise/lending-club
