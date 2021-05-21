@@ -1,38 +1,6 @@
 # **Lending-Loan-Kaggle**
 This data set represents thousands of loans made through the Lending Club platform, which is a platform that allows individuals to lend to other individuals. This data set only represents loans actually made, i.e. do not mistake this data for loan applications! We will be using a subset of the LendingClub DataSet obtained from Kaggle
 
-funded_amnt:That point in time.
-
-emp_length:Number of years in the job, rounded down. If longer than 10 years, then this is represented by the value 10.
-
-annual_inc:The self-reported annual income provided by the borrower during registration. 
-
-home_ownership:The home ownership status provided by the borrower during registration or obtained from the credit report. Our values are: RENT, OWN, MORTGAGE, OTHER
-
-grade:LC assigned loan grade
-
-mort_acc:Number of mortgage accounts.
-
-pub_rec: Number of derogatory public records
-
-int_rate:Interest Rate on the loan
-
-open_acc:The number of open credit lines in the borrower's credit file.
-
-num_actv_rev_tl:Number of currently active revolving trades.
-
-mo_sin_rcnt_rev_tl_op:Months since the most recent revolving account opened.
-
-mo_sin_old_rev_tl_op:Months since oldest revolving account opened.
-
-bc_util:High credit/credit limit for all bankcard accounts.
-
-bc_open_to_buy:Total open to buy on revolving bank cards.
-
-avg_cur_bal:Average current balance of all accounts.
-
-acc_open_past_24mths:Number of trades opened in the past 24 months.
-
 Data Source: https://www.kaggle.com/wordsforthewise/lending-club
 
 # **Model Overview**
