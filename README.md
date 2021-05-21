@@ -13,6 +13,7 @@ We build 2 models: Logistic Regression and Random Forest
 
 # **Model Accuracies**
 
-Accuracy of Logistic Regression: 80.55
-
-Accuracy of RandomForestClassifier: 80.58
+Model | Accuracy
+--- | ---
+Logistic Regression with Grid search CV            | 80.55
+Random Forest with Randomized search CV            | 80.58
